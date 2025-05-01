@@ -30,9 +30,11 @@ This repository contains data analysis and visualization project based on the My
 - Data Visualization
 
 ## Data source
+<a href = "https://github.com/Dinmaaaa/Analysis-And-Visualization-of-Myseller-Global-Sales/blob/main/Mysellar%20Global%20Sales%20Dataset.xlsx"> Myseller Global Sales Dataset </a>
+<a href = "https://en.wikipedia.org/wiki/List_of_African_countries_by_GDP_(nominal)"> List of African Countries by GDP (nominal) </a>
 
 ## Data Model
-
+The data was first normalized in excel before being transformed in Power Query. A supporting table with list of african countries by nominal GDP was then created and added for economic correlation analysis. A one-to-many relationship connects the Country field in the GDP to the Country field in the Orders table
 
 ## Recommendations
 
