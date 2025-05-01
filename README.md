@@ -37,6 +37,8 @@ This repository contains data analysis and visualization project based on the My
 ## Data Model
 The data was first normalized in excel before being transformed in Power Query. A supporting table with list of african countries by nominal GDP was then created and added for economic correlation analysis. A one-to-many relationship connects the Country field in the GDP to the Country field in the Orders table
 
+![Data Model](https://github.com/Dinmaaaa/Analysis-And-Visualization-of-Myseller-Global-Sales/blob/main/images/Myseller_global_sales_data_model.png)
+
 ## Recommendations
 
 ## Download
