@@ -40,6 +40,11 @@ The data was first normalized in excel before being transformed in Power Query. 
 ![Data Model](https://github.com/Dinmaaaa/Analysis-And-Visualization-of-Myseller-Global-Sales/blob/main/images/Myseller_global_sales_data_model.png)
 
 ## Recommendations
+- Prioritize Online Sales Channels: The online channel consistently generated higher profit margins compared to offline sales. Expanding online presence and optimizing digital marketing could significantly increase total revenue.
+- Improve Shipping Efficiency in Key Markets: Some regions, particularly those with higher order volumes, experience longer average delivery times. Optimizing logistics in those areas could improve customer satisfaction and retention.
+-  Re-evaluate Underperforming Product Categories: Product categories that show declining trends or low profitability over time should be reviewed. Consider reducing investment in these categories or investigating potential causes such as pricing, quality, or market saturation.
+- Expand in High Order Volume Countries: Countries with consistently high order volumes, even with moderate GDP, could be further cultivated through targeted promotions, loyalty programs, or exclusive offers.
+- Monitor Profitability vs. Volume: High sales volume doesn't always mean high profit. Mysellar should monitor product and regional profitability alongside sales volume to ensure sustainable growth.
 
 ## Download
 <a href = "https://github.com/Dinmaaaa/Analysis-And-Visualization-of-Myseller-Global-Sales/raw/refs/heads/main/images/Myseller_global_sales_dashboard.pbix"> Download the Power Bi file </a>
