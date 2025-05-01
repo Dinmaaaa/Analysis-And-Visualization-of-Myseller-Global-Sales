@@ -42,3 +42,4 @@ The data was first normalized in excel before being transformed in Power Query. 
 ## Recommendations
 
 ## Download
+<a href = "https://github.com/Dinmaaaa/Analysis-And-Visualization-of-Myseller-Global-Sales/raw/refs/heads/main/images/Myseller_global_sales_dashboard.pbix"> Download the Power Bi file </a>
