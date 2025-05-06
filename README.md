@@ -47,4 +47,4 @@ The data was first normalized in excel before being transformed in Power Query. 
 - Monitor Profitability vs. Volume: High sales volume doesn't always mean high profit. Mysellar should monitor product and regional profitability alongside sales volume to ensure sustainable growth.
 
 ## Download
-<a href = "https://github.com/Dinmaaaa/Analysis-And-Visualization-of-Myseller-Global-Sales/raw/refs/heads/main/images/Myseller_global_sales_dashboard.pbix"> Download the Power Bi file </a>
+<a href = "https://github.com/Dinmaaaa/Analysis-And-Visualization-of-Myseller-Global-Sales/blob/main/images/Myseller_global_sales_dashboard.pbix"> Download the Power Bi file </a>
